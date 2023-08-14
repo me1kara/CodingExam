@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jun
+ *
+ */
+module Stream {
+}
